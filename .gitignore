@@ -18,9 +18,11 @@ yarn-error.log*
 
 # env files
 .env*
-
+.env.local
 # vercel
 .vercel
+TWILIO_SETUP_UPDATED.md
+TWILIO_SETUP.md
 
 # typescript
 *.tsbuildinfo

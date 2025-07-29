@@ -38,7 +38,7 @@ TWILIO_AUTH_TOKEN=your_auth_token
 TWILIO_PHONE_NUMBER=+1234567890
 
 # Gemini AI (Already Set)
-NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyAz2rd98oOvpz4ewNRjSBMQ8BCrahnaa6U
+NEXT_PUBLIC_GEMINI_API_KEY=
 \`\`\`
 
 ### 4. Installation
