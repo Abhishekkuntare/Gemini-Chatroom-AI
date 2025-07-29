@@ -27,15 +27,12 @@
 3. Buy a phone number (~$1/month)
 
 ### 2. Gemini AI Setup
-✅ **Already Configured**: Using API key `AIzaSyAz2rd98oOvpz4ewNRjSBMQ8BCrahnaa6U`
+✅ **Already Configured**: Using API key 
 
 ### 3. Environment Variables
 Add to `.env.local`:
 \`\`\`env
 # Twilio Configuration
-TWILIO_ACCOUNT_SID=your_account_sid
-TWILIO_AUTH_TOKEN=your_auth_token
-TWILIO_PHONE_NUMBER=+1234567890
 
 # Gemini AI (Already Set)
 NEXT_PUBLIC_GEMINI_API_KEY=
